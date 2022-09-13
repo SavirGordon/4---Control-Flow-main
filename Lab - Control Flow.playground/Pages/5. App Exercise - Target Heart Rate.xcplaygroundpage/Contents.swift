@@ -10,7 +10,10 @@
 let targetLowerBound = 120
 let targetUpperBound = 150
 let currentHR = 147
- 
+
+
+
+let isInTarget 
 /*:
 [Previous](@previous)  |  page 5 of 9  |  [Next: Exercise - Switch Statements](@next)
  */
